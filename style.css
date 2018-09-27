@@ -1,0 +1,25 @@
+.row{   
+    display: flex;
+    justify-content: space-around;
+    background-color:#FFC300;
+    color:black;
+    font-family: 'Spirax', cursive;
+    font-size:20px;
+}
+.headshot{
+    border-radius: 50%;
+    width:30%;
+   
+}
+.mid{
+    font-family: 'Spirax', cursive;
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
